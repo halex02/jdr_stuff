@@ -10,6 +10,11 @@ Verrouiller champs non modifiables feuille vierge
 Verifier la base de donnée de la feuille vierge  
 gérer les stats conditionelles (ad+1 disc)
 gérer les stats racial (et ajouter certain item raciaux)
+Verifier la base de donnée de la feuille vierge   
+
+#important  
+update les fiches déja crée à chaque maj   
+
 
 ###MAJ Faites
 Modifier les formules RES magique (cf gnome)
